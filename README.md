@@ -1,12 +1,14 @@
 Service Oriented Systems (Sistemas Orientados a Servicios) 2019/2020 at the [University of Sevilla](https://www.us.es)
 ===================
+
 Lecturers:
-----------
+--
  - [Pablo Fernández](https://github.com/pafmon) (coordinator)
  - [Antonio Gámez](https://github.com/antgamdia)
  
 
 List of projects registered in the course of **Service Oriented Systems** (2019/2020):
+--
 
 ## SOS1920-00
 
