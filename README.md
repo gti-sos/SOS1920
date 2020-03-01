@@ -68,14 +68,14 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - Global suicides
 - A RELLENAR POR JUANMA
 - A RELLENAR POR JESUS
-OR
+- OR
 - World oil consumption
 - A RELLENAR POR JUANMA
 - RELLENAR POR JESUS
 
 - **Repository**: [gti-sos/SOS1920-10](https://github.com/gti-sos/SOS1920-10)
 
-- **********PENDIENTE*********
+- ** ** ** **PENDIENTE
 
 - **URL**: [http://sos1920-00.herokuapp.com](http://sos1920-00.herokuapp.com)
 -  **APIs**:
