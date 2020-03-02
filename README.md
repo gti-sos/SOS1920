@@ -83,4 +83,21 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [pendiente] (developed by [Student 2](https://github.com/404))
     - [pendiente] (developed by [Lizeth Maribel Gutiérrez Mamani](https://github.com/404))
 	
+## SOS1920-25
+
+- **Team**
+  - [Juan Manuel Arcos González](https://github.com/juaarcgon)
+  - [Adrián Escudero Barra](https://github.com/adriator77)
+  - [Alejandro Mena Claro](https://github.com/LagForever)
+- **Project description**: We are going to analyse:
+- happyness rate
+- competitiveness
+- equality
+- **Repository**: [gti-sos/SOS1920-25](https://github.com/gti-sos/SOS1920-00)
+- **URL**: [http://sos1920-25.herokuapp.com](http://sos1920-00.herokuapp.com)
+-  **APIs**:
+    - [https://sos1920-25.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Juan Manuel Arcos González](https://github.com/juaarcgon))
+    - [https://sos1920-25.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Adrián Escudero Barra](https://github.com/adriator77))
+    - [https://sos1920-25.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Mena Claro](https://github.com/LagForever))
+
 	
