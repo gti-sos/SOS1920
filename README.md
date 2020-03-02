@@ -90,7 +90,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Adrián Escudero Barra](https://github.com/adriator77)
   - [Alejandro Mena Claro](https://github.com/LagForever)
 - **Project description**: We are going to analyse:
-     - happyness rate
+     - happiness rate
      - competitiveness
      - equality
 - **Repository**: [gti-sos/SOS1920-25](https://github.com/gti-sos/SOS1920-25)
