@@ -16,7 +16,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Student 1](https://github.com/404)
   - [Student 2](https://github.com/404)
   - [Student 3](https://github.com/404)
-- **Project description**: Resositorio grupo 02 
+- **Project description**: my awesome project
 - **Repository**: [gti-sos/SOS1920-00](https://github.com/gti-sos/SOS1920-00)
 - **URL**: [http://sos1920-00.herokuapp.com](http://sos1920-00.herokuapp.com)
 -  **APIs**:
@@ -30,7 +30,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Marta Verdugo Martinez](https://github.com/martaverdugo6)
   - [Jose Francisco Morales Ruiz](https://github.com/josmorrui2)
   - [Ana Fraire Gonzalez](https://github.com/anafraire)
-- **Project description**: my awesome project
+- **Project description**: Resositorio grupo 02
 - **Repository**: [gti-sos/SOS1920-02](https://github.com/gti-sos/SOS1920-02)
 - **URL**: [http://sos1920-02.herokuapp.com](http://sos1920-02.herokuapp.com)
 -  **APIs**:
