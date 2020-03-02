@@ -138,6 +138,6 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Repository**: [gti-sos/SOS1920-22](https://github.com/gti-sos/SOS1920-22)
 - **URL**: [pendiente](http://sos1920-22.herokuapp.com)
 -  **APIs**:
-    - [pendiente](https://sos1920-22.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Jesús Jiménez Montero](https://github.com/jesjimmon))
-    - [pendiente](https://sos1920-22.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Casto Rodríguez Díaz](https://github.com/CastoRod))
-    - [pendiente](https://sos1920-22.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Antonio Aranda Triana](https://github.com/juantot9))
+    - https://sos1920-22.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Jesús Jiménez Montero](https://github.com/jesjimmon))
+    - (https://sos1920-22.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Casto Rodríguez Díaz](https://github.com/CastoRod))
+    - (https://sos1920-22.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Antonio Aranda Triana](https://github.com/juantot9))
