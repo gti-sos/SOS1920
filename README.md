@@ -3,8 +3,8 @@ Service Oriented Systems (Sistemas Orientados a Servicios) 2019/2020 at the [Uni
 
 Lecturers:
 --
- - [Pablo Fernรกndez](https://github.com/pafmon) (coordinator)
- - [Antonio Gรกmez](https://github.com/antgamdia)
+ - [Pablo Fernandez](https://github.com/pafmon) (coordinator)
+ - [Antonio Gamez](https://github.com/antgamdia)
  
 
 List of projects registered in the course of **Service Oriented Systems** (2019/2020):
