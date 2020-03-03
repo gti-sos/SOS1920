@@ -144,6 +144,19 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 	
+## SOS1920-21
+- **Team**
+	- [Completar]()
+	- [Juan Gómez Mateos](https://github.com/juanillo62gm)
+	- [Completar]()
+	- **Project description**: Our source of information is oriented to analyze relation between victims on traffic accidents, driving licenses and the use of public transport in Spain.
+- **Repository**: [gti-sos/SOS1920-21](https://github.com/gti-sos/SOS1920-21)
+- **URL**: [Soon](http://sos1920-21.herokuapp.com)
+-  **APIs**:
+    - [Soon](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Completar]())
+    - [Soon](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Juan Gómez Mateos](https://github.com/juanillo62gm))
+    - [Soon](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Completar]())
+	
 ## SOS1920-22
 
 - **Team**
