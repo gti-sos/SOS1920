@@ -185,3 +185,15 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Francisco Jurado Garrido](https://github.com/franbornos6))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Jose Carlos Molina Coloma](https://github.com/josmolcol))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Angel Loaiza Davila](https://github.com/angloadav))
+
+## SOS1920-11
+
+- **Team**
+	- Ignacio Calcedo Vázquez (https://github.com/IgnacioCVGitHub)
+	- José Calcedo Vázquez
+	- Alberto Rubio Hurtado
+	
+- **Project description**: Our project is focused on the economic freedom of different countries and the impact this has in their societies with this 3 parameters:
+	- Economic freedom index
+	- Crime rates
+	- Rents per Capita
