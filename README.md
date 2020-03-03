@@ -27,7 +27,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-04
 
 - **Team**
-  - [Isabel Maria Trujillo Gomez]	(https://github.com/isatrugom)
+  - [Isabel Maria Trujillo Gomez](https://github.com/isatrugom)
   - [Daniel González Rey](https://github.com/dangonrey99)
   - [Manuel Barrera Moya](https://github.com/manubarreram18)
 - **Project description**: my awesome project
