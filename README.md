@@ -223,7 +223,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Leandro Calvo Durán](https://github.com/Leanxp)
   - [Álvaro Chamorro Pascua](https://github.com/alvarocp16)
   - [Adrían Pérez Gutiérrez](https://github.com/adriperezguti)
-- **Project description**: Nuestras fuentes de información esta orientadas a analizar la relación que existe entre las ventas de la lotería nacional, los accidentes de tráfico y sus fallecidos en carretera y el número de accidentes en carreteras de la ciudad.
+- **Project description**: Our sources of information are aimed at analyzing the relationship between national lottery sales, traffic accidents and their deceased on the road and the number of accidents on city roads.
 - **Repository**: [gti-sos/SOS1920-06](https://github.com/gti-sos/SOS1920-06)
 - **URL**: [http://sos1920-06.herokuapp.com](http://sos1920-00.herokuapp.com)
 -  **APIs**:
