@@ -188,7 +188,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-08
 
 - **Team**
-  - [Francisco Jurado](https://github.com/franbornos6)
+  - [Francisco Jurado Garrido](https://github.com/franbornos6)
   - [Jose Carlos Molina Coloma](https://github.com/josmolcol)
   - [Angel Loaiza Davila](https://github.com/angloadav)
 - **Project description**: In this proyect we've tried to compare diferent things such as Cars, Bikes and Energy Production.
