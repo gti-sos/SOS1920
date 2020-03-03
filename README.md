@@ -148,7 +148,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Fernando Baeza Rodríguez](https://github.com/nandobaeza97)
   - [Ruben Faraco Iglesias](https://github.com/rubenfaracoi)
   - [Francisco Mohedano Caro](https://github.com/pacomc)
-- **Project description**: Our project is focused in renewable energy, plug-in cars' sales and primary energy sources.
+- **Project description**: Our project is focused on renewable energy, plug-in cars' sales and primary energy sources.
 - **Repository**: [gti-sos/SOS1920-09](https://github.com/gti-sos/SOS1920-09)
 - **URL**: [http://sos1920-09.herokuapp.com](http://sos1920-09.herokuapp.com)
 -  **APIs**:
