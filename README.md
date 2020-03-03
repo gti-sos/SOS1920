@@ -191,9 +191,15 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Team**
 	- Ignacio Calcedo Vázquez (https://github.com/IgnacioCVGitHub)
 	- José Calcedo Vázquez
-	- Alberto Rubio Hurtado
+	- Alberto Rubio Hurtado (https://github.com/arh09)
 	
 - **Project description**: Our project is focused on the economic freedom of different countries and the impact this has in their societies with this 3 parameters:
 	- Economic freedom index
 	- Crime rates
 	- Rents per Capita
+	
+- **URL**: [http://sos1920-11.herokuapp.com] (http://sos1920-11.herokuapp.com)
+-  **APIs**:
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Ignacio Calcedo Vázquez]
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Calcedo Vázquez]
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alberto Rubio Hurtado]
