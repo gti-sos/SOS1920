@@ -202,9 +202,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-11
 
 - **Team**
-	- Ignacio Calcedo Vázquez (https://github.com/IgnacioCVGitHub)
-	- José Calcedo Vázquez (https://github.com/JaredYeeto)
-	- Alberto Rubio Hurtado (https://github.com/arh09)
+	- [Ignacio Calcedo Vázquez](https://github.com/IgnacioCVGitHub)
+	- [José Calcedo Vázquez](https://github.com/JaredYeeto)
+	- [Alberto Rubio Hurtado](https://github.com/arh09)
 	
 - **Project description**: Our project is focused on the economic freedom of different countries and the impact this has in their societies with this 3 parameters:
 	- Economic freedom index
@@ -220,7 +220,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-03
 
 - **Team**
-  - [Antonio Jose Marin Rodriguez]	(https://github.com/marinantonioj)
+  - [Antonio Jose Marin Rodriguez](https://github.com/marinantonioj)
   - [Juan Rafael Barragán Franco](https://github.com/JuanRafaelBF)
   - [Student 3](https://github.com/404)
 - **Project description**: Project focused in the economy, export and import profit/loss and tourism in european countries.
