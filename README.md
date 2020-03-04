@@ -79,16 +79,17 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **Team**
   - [Antonio Jose Jimenez Segovia](https://github.com/nonospe)
-  - [Student 2](https://github.com/404)
+  - [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj)
   - [Student 3](https://github.com/404)
-- **Project description**: my awesome project
+- **Project description**: Correlation between global suicides, global marriages and global divorces. 
+
 - Global suicides
 - A RELLENAR POR JUANMA
-- A RELLENAR POR JESUS
+- Global marriages
 - OR
 - World oil consumption
 - A RELLENAR POR JUANMA
-- RELLENAR POR JESUS
+- Biofuel stats
 
 - **Repository**: [gti-sos/SOS1920-10](https://github.com/gti-sos/SOS1920-10)
 
@@ -210,12 +211,12 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 	- Economic freedom index
 	- Crime rates
 	- Rents per Capita
-	
+- **Repository**: [gti-sos/SOS1920-11](https://github.com/gti-sos/SOS1920-11.git)	
 - **URL**: [http://sos1920-11.herokuapp.com](http://sos1920-11.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Ignacio Calcedo Vázquez](https://github.com/IgnacioCVGitHub))
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Calcedo Vázquez](https://github.com/JaredYeeto))
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alberto Rubio Hurtado](https://github.com/arh09))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Ignacio Calcedo Vázquez](https://github.com/IgnacioCVGitHub))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Calcedo Vázquez](https://github.com/JaredYeeto))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alberto Rubio Hurtado](https://github.com/arh09))
 	
 ## SOS1920-03
 
@@ -320,3 +321,17 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-12.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-12.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Juan José Requena Lama](https://github.com/wuaho))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+	
+## SOS1920-07
+
+- **Team**
+  - [Jorge Vilchez Acosta](https://github.com/jorvilaco)
+  - [Student 2](https://github.com/404)
+  - [Student 3](https://github.com/404)
+- **Project description**: my awesome project
+- **Repository**: [gti-sos/SOS1920-07](https://github.com/gti-sos/SOS1920-07)
+- **URL**: [http://sos1920-07.herokuapp.com](http://sos1920-07.herokuapp.com)
+-  **APIs**:
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Jorge Vilchez Acosta](https://github.com/404))
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))	
