@@ -210,12 +210,12 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 	- Economic freedom index
 	- Crime rates
 	- Rents per Capita
-	
+- **Repository**: [gti-sos/SOS1920-11](https://github.com/gti-sos/SOS1920-11.git)	
 - **URL**: [http://sos1920-11.herokuapp.com](http://sos1920-11.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Ignacio Calcedo Vázquez](https://github.com/IgnacioCVGitHub))
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Calcedo Vázquez](https://github.com/JaredYeeto))
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alberto Rubio Hurtado](https://github.com/arh09))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Ignacio Calcedo Vázquez](https://github.com/IgnacioCVGitHub))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Calcedo Vázquez](https://github.com/JaredYeeto))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alberto Rubio Hurtado](https://github.com/arh09))
 	
 ## SOS1920-03
 
