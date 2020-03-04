@@ -258,3 +258,23 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio Cabello Linares](https://github.com/antoniocl11))
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Ramón Pérez Trigos](https://github.com/joserra123))
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Rodriguez Gomez](https://github.com/alegrandoi))
+<<<<<<< HEAD
+=======
+
+## SOS1920-26
+- **Team**
+  - [Javier Botella Rodríguez](https://github.com/javibotella)
+  - [Student 2](https://github.com/404)
+  - [Student 3](https://github.com/404)
+  
+- **Project description**: Our sources of information are aimed at analyzing the relationship between the top active scorers in the Champions League, the balance sheets in signings of the teams that spend the most, and the uefa coefficient. The intention is to check if a higher number of registrations, or a different balance is an improvement in this competition.
+
+- **Repository**: [gti-sos/SOS1920-26](https://github.com/gti-sos/SOS1920-26)
+
+- **URL**: [pendiente]
+
+-  **APIs**:
+    - [pendiente] (developed by [Javier Botella Rodríguez](https://github.com/javibotella))
+    - [pendiente] (developed by [Student 2](https://github.com/404))
+    - [pendiente] (developed by [Student 3](https://github.com/404))
+>>>>>>> 8dc6f3f608589ea04a6ccc20e1bf154161ff2b11
