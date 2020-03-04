@@ -135,7 +135,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **Team**
   - Diego Ruiz Perez (https://github.com/dieruiper)
-  - [Student 2](https://github.com/404)
+  - Mario Jimenez Santos (https://github.com/J5Mario)
   - [Student 3](https://github.com/404)
 - **Project description**: Analisis de las ventas de la industria del libro en el mundo
 - **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
