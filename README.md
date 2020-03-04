@@ -79,16 +79,17 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **Team**
   - [Antonio Jose Jimenez Segovia](https://github.com/nonospe)
-  - [Student 2](https://github.com/404)
+  - [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj)
   - [Student 3](https://github.com/404)
-- **Project description**: my awesome project
+- **Project description**: Correlation between global suicides, global marriages and global divorces. 
+
 - Global suicides
 - A RELLENAR POR JUANMA
-- A RELLENAR POR JESUS
+- Global marriages
 - OR
 - World oil consumption
 - A RELLENAR POR JUANMA
-- RELLENAR POR JESUS
+- Biofuel stats
 
 - **Repository**: [gti-sos/SOS1920-10](https://github.com/gti-sos/SOS1920-10)
 
