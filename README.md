@@ -223,14 +223,14 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Team**
   - [Antonio José Marín Rodríguez](https://github.com/marinantonioj)
   - [Juan Rafael Barragán Franco](https://github.com/JuanRafaelBF)
-  - [Student 3](https://github.com/404)
+  - [Jose Manuel González Domínguez](https://github.com/jgonzalezal37)
 - **Project description**: Project focused in the economy, export and import profit/loss and tourism in european countries.
 - **Repository**: [gti-sos/SOS1920-03](https://github.com/gti-sos/SOS1920-03)
 - **URL**: [http://sos1920-03.herokuapp.com](http://sos1920-03.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio José Marín Rodríguez](https://github.com/marinantonioj))
     - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Juan Rafael Barragán Franco](https://github.com/JuanRafaelBF))
-    - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Jose Manuel González Domínguez](https://github.com/jgonzalezal37))
 
 ## SOS1920-06
 
@@ -280,18 +280,18 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-26
 - **Team**
   - [Javier Botella Rodríguez](https://github.com/javibotella)
-  - [Student 2](https://github.com/404)
+  - [jgcreus](https://github.com/jgcreus)
   - [Student 3](https://github.com/404)
   
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the top active scorers in the Champions League, the balance sheets in signings of the teams that spend the most, and the uefa coefficient. The intention is to check if a higher number of registrations, or a different balance is an improvement in this competition.
 
 - **Repository**: [gti-sos/SOS1920-26](https://github.com/gti-sos/SOS1920-26)
 
-- **URL**: [pendiente]
+- **URL**: [http://sos1920-26.herokuapp.com](http://sos1920-26.herokuapp.com)
 
 -  **APIs**:
     - [pendiente] (developed by [Javier Botella Rodríguez](https://github.com/javibotella))
-    - [pendiente] (developed by [Student 2](https://github.com/404))
+    - [pendiente] (developed by [jgcreus](https://github.com/jgcreus))
     - [pendiente] (developed by [Student 3](https://github.com/404))
 	
 ## SOS1920-01
@@ -327,11 +327,11 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Team**
   - [Jorge Vilchez Acosta](https://github.com/jorvilaco)
   - [Pablo Paz Rubio](https://github.com/pablopaz1997)
-  - [Student 3](https://github.com/404)
+  - [Juan Antonio Moral Martínez](https://github.com/Juanan26)
 - **Project description**: my awesome project
 - **Repository**: [gti-sos/SOS1920-07](https://github.com/gti-sos/SOS1920-07)
 - **URL**: [http://sos1920-07.herokuapp.com](http://sos1920-07.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-07.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Jorge Vilchez Acosta](https://github.com/404))
     - [https://sos1920-07.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Pablo Paz Rubio](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))	
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Antonio Moral Martínez](https://github.com/404))	
