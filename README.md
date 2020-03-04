@@ -60,7 +60,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Miguel Ángel Toranzo García](https://github.com/Nerk1)
   - [Alvaro Maya Cano](https://github.com/AlvaroMaya)
   - [Victor Manuel Palos Torres](https://github.com/vicpaltor)
-- **Project description**: We will represent the correlation in Spain by autonomous community in 2018 between:
+- **Project description**: We will represent the correlation in Spain by autonomous community in, 2018 between:
 	- Average Tuition Cost
 	- Number of University Tuition
 	- Public Waste on University
