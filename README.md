@@ -249,13 +249,13 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **Team**
   - [Antonio Cabello Linares](https://github.com/antoniocl11)
-  - [José Ramón Pérez Trigos](https://github.com/dangonrey99)
+  - [José Ramón Pérez Trigos](https://github.com/joserra123)
   - [Alejandro Rodriguez Gomez](https://github.com/alegrandoi)
 - **Project description**: my awesome project
 - **Repository**: [gti-sos/SOS1920-23](https://github.com/gti-sos/SOS1920-23)
 - **URL**: [http://sos1920-23.herokuapp.com](http://sos1920-23.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio Cabello Linares](https://github.com/antoniocl11))
-    - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Ramón Pérez Trigos](https://github.com/dangonrey99))
+    - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Ramón Pérez Trigos](https://github.com/joserra123))
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Rodriguez Gomez](https://github.com/alegrandoi))
 
