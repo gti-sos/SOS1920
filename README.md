@@ -60,7 +60,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Miguel Ángel Toranzo García](https://github.com/Nerk1)
   - [Alvaro Maya Cano](https://github.com/AlvaroMaya)
   - [Victor Manuel Palos Torres](https://github.com/vicpaltor)
-- **Project description**: We will represent the correlation in Spain by autonomous community in, 2018 between:
+- **Project description**: We will represent the correlation in Spain by autonomous community in 2018 between:
 	- Average Tuition Cost
 	- Number of University Tuition
 	- Public Waste on University
@@ -79,17 +79,16 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **Team**
   - [Antonio Jose Jimenez Segovia](https://github.com/nonospe)
-  - [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj)
+  - [Student 2](https://github.com/404)
   - [Student 3](https://github.com/404)
-- **Project description**: Correlation between global suicides, global marriages and global divorces. 
-
+- **Project description**: my awesome project
 - Global suicides
 - A RELLENAR POR JUANMA
-- Global marriages
+- A RELLENAR POR JESUS
 - OR
 - World oil consumption
 - A RELLENAR POR JUANMA
-- Biofuel stats
+- RELLENAR POR JESUS
 
 - **Repository**: [gti-sos/SOS1920-10](https://github.com/gti-sos/SOS1920-10)
 
@@ -136,7 +135,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **Team**
   - Diego Ruiz Perez (https://github.com/dieruiper)
-  - Mario Jimenez Santos (https://github.com/J5Mario)
+  - [Student 2](https://github.com/404)
   - [Student 3](https://github.com/404)
 - **Project description**: Analisis de las ventas de la industria del libro en el mundo
 - **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
@@ -211,26 +210,26 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 	- Economic freedom index
 	- Crime rates
 	- Rents per Capita
-- **Repository**: [gti-sos/SOS1920-11](https://github.com/gti-sos/SOS1920-11.git)	
+	
 - **URL**: [http://sos1920-11.herokuapp.com](http://sos1920-11.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Ignacio Calcedo Vázquez](https://github.com/IgnacioCVGitHub))
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Calcedo Vázquez](https://github.com/JaredYeeto))
-    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alberto Rubio Hurtado](https://github.com/arh09))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Ignacio Calcedo Vázquez](https://github.com/IgnacioCVGitHub))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Calcedo Vázquez](https://github.com/JaredYeeto))
+    - [https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alberto Rubio Hurtado](https://github.com/arh09))
 	
 ## SOS1920-03
 
 - **Team**
   - [Antonio José Marín Rodríguez](https://github.com/marinantonioj)
   - [Juan Rafael Barragán Franco](https://github.com/JuanRafaelBF)
-  - [Jose Manuel González Domínguez](https://github.com/jgonzalezal37)
+  - [Student 3](https://github.com/404)
 - **Project description**: Project focused in the economy, export and import profit/loss and tourism in european countries.
 - **Repository**: [gti-sos/SOS1920-03](https://github.com/gti-sos/SOS1920-03)
 - **URL**: [http://sos1920-03.herokuapp.com](http://sos1920-03.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio José Marín Rodríguez](https://github.com/marinantonioj))
     - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Juan Rafael Barragán Franco](https://github.com/JuanRafaelBF))
-    - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Jose Manuel González Domínguez](https://github.com/jgonzalezal37))
+    - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
 ## SOS1920-06
 
@@ -280,7 +279,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-26
 - **Team**
   - [Javier Botella Rodríguez](https://github.com/javibotella)
-  - [jgcreus](https://github.com/jgcreus)
+  - [Jose García Creus](https://github.com/jgcreus)
   - [Student 3](https://github.com/404)
   
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the top active scorers in the Champions League, the balance sheets in signings of the teams that spend the most, and the uefa coefficient. The intention is to check if a higher number of registrations, or a different balance is an improvement in this competition.
@@ -291,7 +290,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 -  **APIs**:
     - [pendiente] (developed by [Javier Botella Rodríguez](https://github.com/javibotella))
-    - [pendiente] (developed by [jgcreus](https://github.com/jgcreus))
+    - [pendiente] (developed by [Jose García Creus](https://github.com/jgcreus))
     - [pendiente] (developed by [Student 3](https://github.com/404))
 	
 ## SOS1920-01
@@ -321,17 +320,3 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-12.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-12.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Juan José Requena Lama](https://github.com/wuaho))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
-	
-## SOS1920-07
-
-- **Team**
-  - [Jorge Vilchez Acosta](https://github.com/jorvilaco)
-  - [Pablo Paz Rubio](https://github.com/pablopaz1997)
-  - [Student 3](https://github.com/404)
-- **Project description**: my awesome project
-- **Repository**: [gti-sos/SOS1920-07](https://github.com/gti-sos/SOS1920-07)
-- **URL**: [http://sos1920-07.herokuapp.com](http://sos1920-07.herokuapp.com)
--  **APIs**:
-    - [https://sos1920-07.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Jorge Vilchez Acosta](https://github.com/404))
-    - [https://sos1920-07.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Pablo Paz Rubio](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))	
