@@ -299,7 +299,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Juan Francisco Laínez Valle](https://github.com/juanfran94)
   - [Ángela Torreño Calvete](https://github.com/angtorcal)
   - [Antonio Escobar Nuñez](https://github.com/Escobar1993)
-- **Project description**: my awesome project
+- **Project description**: Our source of information is oriented to analyze the relationship between birth, poverty irrigation and emigrants worldwide.
 - **Repository**: [gti-sos/SOS1920-01](https://github.com/gti-sos/SOS1920-01)
 - **URL**: [http://sos1920-01.herokuapp.com](http://sos1920-01.herokuapp.com)
 -  **APIs**:
