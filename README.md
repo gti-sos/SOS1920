@@ -279,18 +279,18 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-26
 - **Team**
   - [Javier Botella Rodríguez](https://github.com/javibotella)
-  - [Student 2](https://github.com/404)
+  - [jgcreus](https://github.com/jgcreus)
   - [Student 3](https://github.com/404)
   
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the top active scorers in the Champions League, the balance sheets in signings of the teams that spend the most, and the uefa coefficient. The intention is to check if a higher number of registrations, or a different balance is an improvement in this competition.
 
 - **Repository**: [gti-sos/SOS1920-26](https://github.com/gti-sos/SOS1920-26)
 
-- **URL**: [pendiente]
+- **URL**: [http://sos1920-26.herokuapp.com](http://sos1920-26.herokuapp.com)
 
 -  **APIs**:
     - [pendiente] (developed by [Javier Botella Rodríguez](https://github.com/javibotella))
-    - [pendiente] (developed by [Student 2](https://github.com/404))
+    - [pendiente] (developed by [jgcreus](https://github.com/jgcreus))
     - [pendiente] (developed by [Student 3](https://github.com/404))
 	
 ## SOS1920-01
