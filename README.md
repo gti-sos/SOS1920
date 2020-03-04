@@ -223,22 +223,15 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Team**
   - [Antonio José Marín Rodríguez](https://github.com/marinantonioj)
   - [Juan Rafael Barragán Franco](https://github.com/JuanRafaelBF)
-<<<<<<< HEAD
   - [José Manuel González Domínguez](https://github.com/jgonzalezal37)
-=======
-  - [Student 3](https://github.com/404)
->>>>>>> ae237a20a2ba40e2409053e9dbccf82e8a56cc65
+
 - **Project description**: Project focused in the economy, export and import profit/loss and tourism in european countries.
 - **Repository**: [gti-sos/SOS1920-03](https://github.com/gti-sos/SOS1920-03)
 - **URL**: [http://sos1920-03.herokuapp.com](http://sos1920-03.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio José Marín Rodríguez](https://github.com/marinantonioj))
     - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Juan Rafael Barragán Franco](https://github.com/JuanRafaelBF))
-<<<<<<< HEAD
     - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [José Manuel González Domínguez](https://github.com/jgonzalezal37))
-=======
-    - [https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-03.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
->>>>>>> ae237a20a2ba40e2409053e9dbccf82e8a56cc65
 
 ## SOS1920-06
 
@@ -289,7 +282,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Team**
   - [Javier Botella Rodríguez](https://github.com/javibotella)
   - [Jose García Creus](https://github.com/jgcreus)
-  - [Student 3](https://github.com/404)
+  - [Diego Monsalves Vázquez](https://github.com/diemonvaz)
   
 - **Project description**: Our sources of information are aimed at analyzing the relationship between the top active scorers in the Champions League, the balance sheets in signings of the teams that spend the most, and the uefa coefficient. The intention is to check if a higher number of registrations, or a different balance is an improvement in this competition.
 
@@ -300,7 +293,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 -  **APIs**:
     - [pendiente] (developed by [Javier Botella Rodríguez](https://github.com/javibotella))
     - [pendiente] (developed by [Jose García Creus](https://github.com/jgcreus))
-    - [pendiente] (developed by [Student 3](https://github.com/404))
+    - [pendiente] (developed by [Diego Monsalves Vázquez](https://github.com/diemonvaz))
 	
 ## SOS1920-01
 
