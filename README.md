@@ -354,3 +354,17 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-28.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-28.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Camacho Árias](https://github.com/404))
 <<<<<<< HEAD
 =======
+
+
+## SOS1920-30
+- **Team**
+  - [Fran Zájara Gomez](https://github.com/FranZajara)
+  - [Raul Ojeda Robles](https://github.com/rauojerob)
+- *Project description*:  Our sources of information are aimed at analyzing the relationship between sugar consumption and the quantity of obese people.
+- *Repository*: [gti-sos/SOS1920-30](https://github.com/gti-sos/SOS1920-30)
+- *URL*: in coming
+-  *APIs*
+    -  (developed by [Raul Ojeda Robles](https://github.com/rauojerob))
+    - (developed by [Fran Zájara Gomez](https://github.com/FranZajara))
+<<<<<<< HEAD
+=======
