@@ -136,13 +136,13 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Team**
   - Diego Ruiz Perez (https://github.com/dieruiper)
   - [Mathias Botchwey](https://github.com/Kingmathy)
-  - [Student 3](https://github.com/404)
+  - [Mario Jimenez Santos](https://github.com/J5Mario)
 - **Project description**: Analisis de las ventas de la industria del libro en el mundo
 - **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
 - **URL**: [http://sos1920-05.herokuapp.com](http://sos1920-05.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Mathias Botchwey](https://github.com/404))
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Mathias Botchwey](https://github.com/Kingmathy))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 	
 ## SOS1920-21
