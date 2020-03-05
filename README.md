@@ -134,7 +134,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-05
 
 - **Team**
-  - Diego Ruiz Perez (https://github.com/dieruiper)
+  - [Diego Ruiz Perez](https://github.com/dieruiper)
   - [Mathias Botchwey](https://github.com/Kingmathy)
   - [Mario Jimenez Santos](https://github.com/J5Mario)
 - **Project description**: Analisis de las ventas de la industria del libro en el mundo
