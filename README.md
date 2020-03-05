@@ -314,7 +314,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Team**
   - [Juan José Requena Lama](https://github.com/wuaho)
   - [Pascual Requena Lama](https://github.com/Requena115)
-  - [Student 3](https://github.com/404)
+  - [Adrià León García](https://github.com/Adrleogar)
 - **Project description**: Our sources of information are aimed at analyzing the relationship between drug-related crime, the percentage of school dropout and overdose deaths in Europe.
 - **Repository**: [gti-sos/SOS1920-12](https://github.com/gti-sos/SOS1920-12)
 - **URL**: [http://sos1920-12.herokuapp.com](http://sos1920-12.herokuapp.com)
