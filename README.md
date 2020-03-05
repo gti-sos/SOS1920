@@ -321,7 +321,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 -  **APIs**:
     - [https://sos1920-12.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-12.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Juan José Requena Lama](https://github.com/wuaho))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/Requena115))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Adrià Leín García](https://github.com/Adrleogar))
 <<<<<<< HEAD
 =======
 	
