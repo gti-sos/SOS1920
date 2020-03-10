@@ -104,9 +104,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 ## SOS1920-29
 
 - **Team**
-  - [Enrique Ramos Miró](https://github.com/404)
+  - [Enrique Ramos Miró](https://github.com/enramir)
   - [Jairo Fernández Carmona](https://github.com/jairo25fdez)
-  - [Lizeth Maribel Gutiérrez Mamani](https://github.com/404)
+  - [Lizeth Maribel Gutiérrez Mamani](https://github.com/lizethgutierrez)
 - **Project description**: Analysis of the relationship between education quality, employments and woman researchers in Europe.
 - **Repository**: [gti-sos/SOS1920-29](https://github.com/gti-sos/SOS1920-29)
 - **URL**: [https://sos1920-29.herokuapp.com](http://sos1920-29.herokuapp.com)
