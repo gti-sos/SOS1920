@@ -258,10 +258,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio Cabello Linares](https://github.com/antoniocl11))
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Ramón Pérez Trigos](https://github.com/joserra123))
     - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Rodriguez Gomez](https://github.com/alegrandoi))
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
+
+
 ## SOS1920-27
 
 - **Team**
@@ -272,10 +271,10 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Repository**: [gti-sos/SOS1920-27](https://github.com/gti-sos/SOS1920-27)
 - **URL**: [http://sos1920-27.herokuapp.com](http://sos1920-27.herokuapp.com)
 -  **APIs**:
-    - [https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate](https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate) (developed by [Belén Domínguez Domínguez](https://github.com/sensatte))
-    - [https://www.datosmundial.com/calidad-de-vida.php](https://www.datosmundial.com/calidad-de-vida.php) (developed by [Juan Luis Aguilera Rivero](https://github.com/juanluidos))
-    - [https://www.bancomundial.org/es/news/press-release/2018/09/19/decline-of-global-extreme-poverty-continues-but-has-slowed-world-bank](https://www.bancomundial.org/es/news/press-release/2018/09/19/decline-of-global-extreme-poverty-continues-but-has-slowed-world-bank) (developed by [José Manuel Pérez Álvarez](https://github.com/JMPere))
-=======
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Belén Domínguez Domínguez](https://github.com/sensatte))
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Juan Luis Aguilera Rivero](https://github.com/juanluidos))
+    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [José Manuel Pérez Álvarez](https://github.com/JMPere))
+
 ## SOS1920-26
 - **Team**
   - [Javier Botella Rodríguez](https://github.com/javibotella)
