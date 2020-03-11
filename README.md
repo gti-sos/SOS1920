@@ -9,7 +9,7 @@ Lecturers:
 
 List of projects registered in the course of **Service Oriented Systems** (2019/2020):
 --
-
+ 
 ## SOS1920-00
 
 - **Team**
