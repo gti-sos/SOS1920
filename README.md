@@ -83,19 +83,13 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9)
 - **Project description**: Correlation between global suicides, global marriages and global divorces. 
 
-- Global suicides
-- Global divorces
-- Global marriages
-- OR
-- World oil consumption
-- Uranium stats
-- Biofuel stats
-
+	- Global suicides
+	- Global divorces
+	- Global marriages
+ 
 - **Repository**: [gti-sos/SOS1920-10](https://github.com/gti-sos/SOS1920-10)
 
-- ** ** ** **PENDIENTE
-
-- **URL**: [http://sos1920-00.herokuapp.com](http://sos1920-00.herokuapp.com)
+- **URL**: [http://sos1920-10.herokuapp.com](http://sos1920-00.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
