@@ -120,11 +120,11 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
      - competitiveness
      - equality
 - **Repository**: [gti-sos/SOS1920-25](https://github.com/gti-sos/SOS1920-25)
-- **URL**: [penndiente](http://sos1920-25.herokuapp.com)
+- **URL**: [https://sos1920-25.herokuapp.com](http://sos1920-25.herokuapp.com)
 -  **APIs**:
-    - [pendiente](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Juan Manuel Arcos González](https://github.com/juaarcgon))
-    - [pendiente](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Adrián Escudero Barra](https://github.com/adriator77))
-    - [pendiente](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Mena Claro](https://github.com/LagForever))
+    - [https://sos1920-25.herokuapp.com/api/v1/happiness_rate](https://sos1920-00.herokuapp.com/api/v1/happiness_rate) (developed by [Juan Manuel Arcos González](https://github.com/juaarcgon))
+    - [https://sos1920-25.herokuapp.com/api/v1/global_competitiveness_index](https://sos1920-00.herokuapp.com/api/v1/global_competitiveness_index) (developed by [Adrián Escudero Barra](https://github.com/adriator77))
+    - [https://sos1920-25.herokuapp.comapi/v1/countries_for_equality_stats](https://sos1920-00.herokuapp.com/api/v1/countries_for_equality_stats) (developed by [Alejandro Mena Claro](https://github.com/LagForever))
 
 ## SOS1920-05
 
