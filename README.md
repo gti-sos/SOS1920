@@ -132,13 +132,13 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - Diego Ruiz Perez (https://github.com/dieruiper)
   - Mario jimenez Santos (https://github.com/J5Mario)
   - [Mathias Abban Ehentam](https://github.com/Kingmathy)
-- **Project description**: Analisis de las ventas de la industria del libro en el mundo
+- **Project description**: Nuestras fuentes de información están orientadas a analizar las estadisticas sobre la exportación de libros, gasto publico en salud, y esperanza de vida en el ámbito europeo.
 - **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
 - **URL**: [http://sos1920-05.herokuapp.com](http://sos1920-05.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Mathias Abban Ehentam](https://github.com/Kingmathy))
+    - [https://sos1920-05.herokuapp.com/api/v1/books-exports](https://sos1920-05.herokuapp.com/api/v1/books-exports) (developed by [Diego Ruiz Perez](https://github.com/dieruiper))
+    - [https://sos1920-05.herokuapp.com/api/v1/health_public](https://sos1920-05.herokuapp.com/api/v1/health_public) (developed by [Mario Jimenez Santos](https://github.com/J5Mario))
+    - [https://sos1920-05.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-05.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Mathias Abban Ehentam](https://github.com/Kingmathy))
 	
 ## SOS1920-21
 - **Team**
