@@ -177,8 +177,8 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **URL**: [http://sos1920-09.herokuapp.com](http://sos1920-09.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-09.herokuapp.com/api/v1/plug-in-vehicles-stats/docs](https://sos1920-09.herokuapp.com/api/v1/plug-in-vehicles-stats/docs) (developed by [Fernando Baeza Rodríguez](https://github.com/nandobaeza97))
-    - [https://sos1920-09.herokuapp.com/api/v1/renewable-sources-stats/docs](https://sos1920-09.herokuapp.com/api/v1/renewable-sources-stats/docs) (developed by [Ruben Faraco Iglesias](https://github.com/rubenfaracoi))
-    - [https://sos1920-09.herokuapp.com/api/v1/oil-coal-nuclear-energy-consumption-stats/docs](https://sos1920-09.herokuapp.com/api/v1/oil-coal-nuclear-energy-consumption-stats/docs) (developed by [Francisco Mohedano Caro](https://github.com/pacomc))
+    - [https://sos1920-09.herokuapp.com/api/v1/oil-coal-nuclear-energy-consumption-stats/docs](https://sos1920-09.herokuapp.com/api/v1/oil-coal-nuclear-energy-consumption-stats/docs) (developed by [Ruben Faraco Iglesias](https://github.com/rubenfaracoi))
+    - [https://sos1920-09.herokuapp.com/api/v1/renewable-sources-stats/docs](https://sos1920-09.herokuapp.com/api/v1/renewable-sources-stats/docs) (developed by [Francisco Mohedano Caro](https://github.com/pacomc))
 
 ## SOS1920-08
 
