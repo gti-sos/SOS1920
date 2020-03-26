@@ -95,6 +95,11 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-10.herokuapp.com/api/v1/global-marriages ](https://sos1920-10.herokuapp.com/api/v1/global-marriages ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
     - [https://sos1920-10.herokuapp.com/api/v1/global-divorces](https://sos1920-10.herokuapp.com/api/v1/global-divorces) (developed by [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9))
 	
+-  **POSTMAN**:
+    - [https://documenter.getpostman.com/view/10651736/SzYUaMVS](https://documenter.getpostman.com/view/10651736/SzYUaMVS) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
+    - [hhttps://documenter.getpostman.com/view/10695115/SzYUaMLT ](https://documenter.getpostman.com/view/10695115/SzYUaMLT  ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
+    - [https://documenter.getpostman.com/view/10695121/SzYUaMR1](https://documenter.getpostman.com/view/10695121/SzYUaMR1) (developed by [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9))
+	
 ## SOS1920-29
 
 - **Team**
