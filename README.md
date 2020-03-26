@@ -211,7 +211,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 *   [https://sos1920-11.herokuapp.com/api/v1/economic-freedom-indexes/docs](https://documenter.getpostman.com/view/10701438/SzYUZgNc) (developed by Ignacio Calcedo Vázquez)
 *   [https://sos1920-11.herokuapp.com/api/v1/crime-rates-stats/docs]( https://documenter.getpostman.com/view/10701451/SzYUZMCN) (developed by José Calcedo Vázquez)
-*   [https://sos1920-11.herokuapp.com/api/v1/rents-per-capita/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by Alberto Rubio Hurtado)
+*   [https://sos1920-11.herokuapp.com/api/v1/rents-per-capita/docs](https://documenter.getpostman.com/view/9107347/SzYUa25s) (developed by Alberto Rubio Hurtado)
 	
 ## SOS1920-03
 
