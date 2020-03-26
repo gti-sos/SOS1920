@@ -190,9 +190,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Repository**: [gti-sos/SOS1920-08](https://github.com/gti-sos/SOS1920-08)
 - **URL**: [https://sos1920-08.herokuapp.com/](http://sos1920-8.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Francisco Jurado Garrido](https://github.com/franbornos6))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Jose Carlos Molina Coloma](https://github.com/josmolcol))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Angel Loaiza Davila](https://github.com/angloadav))
+    - [https://sos1920-08.herokuapp.com/api/v1//motogp-statistics/docs/](https://documenter.getpostman.com/view/10864755/SzYUa1rg) (developed by [Francisco Jurado Garrido](https://github.com/franbornos6))
+    - [https://sos1920-08.herokuapp.com/api/v1/ucl_stats/docs/](https://documenter.getpostman.com/view/10690065/SzYUa1nB) (developed by [Jose Carlos Molina Coloma](https://github.com/josmolcol))
+    - [https://sos1920-08.herokuapp.com/api/v1/electricity-produced-stats/docs/](https://documenter.getpostman.com/view/10851956/SzYUXfsE) (developed by [Angel Loaiza Davila](https://github.com/angloadav))
 
 ## SOS1920-11
 
