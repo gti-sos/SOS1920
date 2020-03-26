@@ -149,9 +149,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Repository**: [gti-sos/SOS1920-21](https://github.com/gti-sos/SOS1920-21)
 - **URL**: [Heroku](https://sos1920-21.herokuapp.com/)
 -  **APIs**:
-    - [https://sos1920-21.herokuapp.com/api/v1/driving_licenses/docs](https://sos1920-21.herokuapp.com/api/v1/driving_licenses/docs) (developed by [Antonio Prieto Tagua](https://github.com/antonio98pt))
+    - [https://sos1920-21.herokuapp.com/api/v1/driving-licenses/docs](https://sos1920-21.herokuapp.com/api/v1/driving-licenses/docs) (developed by [Antonio Prieto Tagua](https://github.com/antonio98pt))
     - [https://sos1920-21.herokuapp.com/api/v1/traffic-injuries/docs](https://sos1920-21.herokuapp.com/api/v1/traffic-injuries/docs) (developed by [Juan Gómez Mateos](https://github.com/juanillo62gm))
-    - [Soon](https://sos1920-21.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [José María de Soto Oncíns](https://github.com/PepeDeSoto))
+    - [https://sos1920-21.herokuapp.com/api/v1/public-transports/docs](https://sos1920-21.herokuapp.com/api/v1/public-transports/docs) (developed by [José María de Soto Oncíns](https://github.com/PepeDeSoto))
 	
 ## SOS1920-22
 - **Team**
