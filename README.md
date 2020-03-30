@@ -376,6 +376,6 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - *URL*: in coming
 -  *APIs*
     -  (developed by [Raul Ojeda Robles](https://github.com/rauojerob))
-    - (developed by [Fran Zájara Gomez](https://github.com/FranZajara))
+    - https://sugar-consumption.herokuapp.com/api/v1/sugarconsume(developed by [Fran Zájara Gomez](https://github.com/FranZajara))
 <<<<<<< HEAD
 =======
