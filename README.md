@@ -91,9 +91,14 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **URL**: [http://sos1920-10.herokuapp.com](http://sos1920-00.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
+    - [https://sos1920-10.herokuapp.com/api/v1/global-suicides](https://sos1920-10.herokuapp.com/api/v1/global-suicides) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
+    - [https://sos1920-10.herokuapp.com/api/v1/global-marriages ](https://sos1920-10.herokuapp.com/api/v1/global-marriages ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
+    - [https://sos1920-10.herokuapp.com/api/v1/global-divorces](https://sos1920-10.herokuapp.com/api/v1/global-divorces) (developed by [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9))
+	
+-  **POSTMAN**:
+    - [https://documenter.getpostman.com/view/10651736/SzYUaMVS](https://documenter.getpostman.com/view/10651736/SzYUaMVS) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
+    - [hhttps://documenter.getpostman.com/view/10695115/SzYUaMLT ](https://documenter.getpostman.com/view/10695115/SzYUaMLT  ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
+    - [https://documenter.getpostman.com/view/10695121/SzYUaMR1](https://documenter.getpostman.com/view/10695121/SzYUaMR1) (developed by [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9))
 	
 ## SOS1920-29
 
@@ -132,13 +137,13 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - Diego Ruiz Perez (https://github.com/dieruiper)
   - Mario jimenez Santos (https://github.com/J5Mario)
   - [Mathias Abban Ehentam](https://github.com/Kingmathy)
-- **Project description**: Analisis de las ventas de la industria del libro en el mundo
+- **Project description**: Nuestras fuentes de información están orientadas a analizar las estadisticas sobre la exportación de libros, gasto publico en salud, y esperanza de vida en el ámbito europeo.
 - **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
 - **URL**: [http://sos1920-05.herokuapp.com](http://sos1920-05.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Student 1](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Mathias Abban Ehentam](https://github.com/Kingmathy))
+    - [https://sos1920-05.herokuapp.com/api/v1/books-exports](https://sos1920-05.herokuapp.com/api/v1/books-exports) (developed by [Diego Ruiz Perez](https://github.com/dieruiper))
+    - [https://sos1920-05.herokuapp.com/api/v1/health_public](https://sos1920-05.herokuapp.com/api/v1/health_public) (developed by [Mario Jimenez Santos](https://github.com/J5Mario))
+    - [https://sos1920-05.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-05.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Mathias Abban Ehentam](https://github.com/Kingmathy))
 	
 ## SOS1920-21
 - **Team**
@@ -149,9 +154,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Repository**: [gti-sos/SOS1920-21](https://github.com/gti-sos/SOS1920-21)
 - **URL**: [Heroku](https://sos1920-21.herokuapp.com/)
 -  **APIs**:
-    - [https://sos1920-21.herokuapp.com/api/v1/driving_licenses/docs](https://sos1920-21.herokuapp.com/api/v1/driving_licenses/docs) (developed by [Antonio Prieto Tagua](https://github.com/antonio98pt))
+    - [https://sos1920-21.herokuapp.com/api/v1/driving-licenses/docs](https://sos1920-21.herokuapp.com/api/v1/driving-licenses/docs) (developed by [Antonio Prieto Tagua](https://github.com/antonio98pt))
     - [https://sos1920-21.herokuapp.com/api/v1/traffic-injuries/docs](https://sos1920-21.herokuapp.com/api/v1/traffic-injuries/docs) (developed by [Juan Gómez Mateos](https://github.com/juanillo62gm))
-    - [Soon](https://sos1920-21.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [José María de Soto Oncíns](https://github.com/PepeDeSoto))
+    - [https://sos1920-21.herokuapp.com/api/v1/public-transports/docs](https://sos1920-21.herokuapp.com/api/v1/public-transports/docs) (developed by [José María de Soto Oncíns](https://github.com/PepeDeSoto))
 	
 ## SOS1920-22
 - **Team**
@@ -176,9 +181,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Repository**: [gti-sos/SOS1920-09](https://github.com/gti-sos/SOS1920-09)
 - **URL**: [http://sos1920-09.herokuapp.com](http://sos1920-09.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-09.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-09.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Fernando Baeza Rodríguez](https://github.com/nandobaeza97))
-    - [https://sos1920-09.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-09.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Ruben Faraco Iglesias](https://github.com/rubenfaracoi))
-    - [https://sos1920-09.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-09.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Francisco Mohedano Caro](https://github.com/pacomc))
+    - [https://sos1920-09.herokuapp.com/api/v1/plug-in-vehicles-stats/docs](https://sos1920-09.herokuapp.com/api/v1/plug-in-vehicles-stats/docs) (developed by [Fernando Baeza Rodríguez](https://github.com/nandobaeza97))
+    - [https://sos1920-09.herokuapp.com/api/v1/oil-coal-nuclear-energy-consumption-stats/docs](https://sos1920-09.herokuapp.com/api/v1/oil-coal-nuclear-energy-consumption-stats/docs) (developed by [Ruben Faraco Iglesias](https://github.com/rubenfaracoi))
+    - [https://sos1920-09.herokuapp.com/api/v1/renewable-sources-stats/docs](https://sos1920-09.herokuapp.com/api/v1/renewable-sources-stats/docs) (developed by [Francisco Mohedano Caro](https://github.com/pacomc))
 
 ## SOS1920-08
 
@@ -188,11 +193,11 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Angel Loaiza Davila](https://github.com/angloadav)
 - **Project description**: In this proyect we've tried to compare diferent things such as Cars, Bikes and Energy Production.
 - **Repository**: [gti-sos/SOS1920-08](https://github.com/gti-sos/SOS1920-08)
-- **URL**: [https://sos1920-08.herokuapp.com/](http://sos1920-8.herokuapp.com)
+- **URL**: [https://sos1920-08.herokuapp.com](http://sos1920-08.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Francisco Jurado Garrido](https://github.com/franbornos6))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Jose Carlos Molina Coloma](https://github.com/josmolcol))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Angel Loaiza Davila](https://github.com/angloadav))
+    - [https://sos1920-08.herokuapp.com/api/v1/motogp-statistics/docs/](https://documenter.getpostman.com/view/10864755/SzYUa1rg) (developed by [Francisco Jurado Garrido](https://github.com/franbornos6))
+    - [https://sos1920-08.herokuapp.com/api/v1/ucl_stats/docs/](https://documenter.getpostman.com/view/10690065/SzYUa1nB) (developed by [Jose Carlos Molina Coloma](https://github.com/josmolcol))
+    - [https://sos1920-08.herokuapp.com/api/v1/electricity-produced-stats/docs/](https://documenter.getpostman.com/view/10851956/SzYUXfsE) (developed by [Angel Loaiza Davila](https://github.com/angloadav))
 
 ## SOS1920-11
 
@@ -211,7 +216,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 *   [https://sos1920-11.herokuapp.com/api/v1/economic-freedom-indexes/docs](https://documenter.getpostman.com/view/10701438/SzYUZgNc) (developed by Ignacio Calcedo Vázquez)
 *   [https://sos1920-11.herokuapp.com/api/v1/crime-rates-stats/docs]( https://documenter.getpostman.com/view/10701451/SzYUZMCN) (developed by José Calcedo Vázquez)
-*   [https://sos1920-11.herokuapp.com/api/v1/rents-per-capita/docs](https://sos1920-11.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by Alberto Rubio Hurtado)
+*   [https://sos1920-11.herokuapp.com/api/v1/rents-per-capita/docs](https://documenter.getpostman.com/view/9107347/SzYUa25s) (developed by Alberto Rubio Hurtado)
 	
 ## SOS1920-03
 
@@ -288,10 +293,19 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **URL**: [http://sos1920-26.herokuapp.com](http://sos1920-26.herokuapp.com)
 
--  **APIs**:
-    - [pendiente] (developed by [Javier Botella Rodríguez](https://github.com/javibotella))
-    - [pendiente] (developed by [Jose García Creus](https://github.com/jgcreus))
-    - [pendiente] (developed by [Diego Monsalves Vázquez](https://github.com/diemonvaz))
+- **APIs**:
+
+    - [http://sos1920-26.herokuapp.com/api/v1/top-goalscorers] (developed by [Javier Botella Rodríguez](https://github.com/javibotella)) (Es necesario usar /loadInitialData)
+    - [http://sos1920-26.herokuapp.com/api/v1/coef] (developed by [Jose García Creus](https://github.com/jgcreus))
+    - [http://sos1920-26.herokuapp.com/api/v1/transfers] (developed by [Diego Monsalves Vázquez](https://github.com/diemonvaz))
+	
+	
+-  **Portales de documentación de Postman**:
+
+    - [https://documenter.getpostman.com/view/10847476/SzYUZgTA] (developed by [Javier Botella Rodríguez](https://github.com/javibotella))
+    - [https://documenter.getpostman.com/view/10847476/SzYUa2AE] (developed by [Jose García Creus](https://github.com/jgcreus))
+    - [https://documenter.getpostman.com/view/10637393/SzYUa2Ee] (developed by [Diego Monsalves Vázquez](https://github.com/diemonvaz))
+	
 	
 ## SOS1920-01
 
@@ -362,6 +376,6 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - *URL*: in coming
 -  *APIs*
     -  (developed by [Raul Ojeda Robles](https://github.com/rauojerob))
-    - (developed by [Fran Zájara Gomez](https://github.com/FranZajara))
+    - https://sugar-consumption.herokuapp.com/api/v1/sugarconsume(developed by [Fran Zájara Gomez](https://github.com/FranZajara))
 <<<<<<< HEAD
 =======
