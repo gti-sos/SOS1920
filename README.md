@@ -257,10 +257,19 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 - **Repository**: [gti-sos/SOS1920-23](https://github.com/gti-sos/SOS1920-23)
 - **URL**: [http://sos1920-23.herokuapp.com](http://sos1920-23.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Antonio Cabello Linares](https://github.com/antoniocl11))
-    - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [José Ramón Pérez Trigos](https://github.com/joserra123))
-    - [https://sos1920-04.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-23.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Alejandro Rodriguez Gomez](https://github.com/alegrandoi))
+    - [https://sos1920-23.herokuapp.com/api/v1/fires-stats](https://sos1920-23.herokuapp.com/api/v1/fires-stats) (developed by [Antonio Cabello Linares](https://github.com/antoniocl11))
+    - [https://sos1920-23.herokuapp.com/api/v1/cigarretes-sales](https://sos1920-23.herokuapp.com/api/v1/cigarretes-sales) (developed by [José Ramón Pérez Trigos](https://github.com/joserra123))
+    - [https://sos1920-23.herokuapp.com/api/v1/offworks-stats](https://sos1920-23.herokuapp.com/api/v1/offworks-stats) (developed by [Alejandro Rodriguez Gomez](https://github.com/alegrandoi))
 
+-  **Postman Documentation**:
+	- API de Alejandro Rodríguez Gómez la colección desarrollada sobre el entorno de HEROKU 
+		[https://documenter.getpostman.com/view/10846961/SzYUY1CH] offworks-stats
+
+	- API DE Antonio Cabello Linares, colección desarrollada sobre entorno de HEROKU: 	
+		[https://documenter.getpostman.com/view/10637537/Szf3aVeY] fires-stats
+
+	- API DE José Ramón Pérez Trigos, colección desarrollada sobre entorno de Heroku y Goorm: 	
+		[https://documenter.getpostman.com/view/10860459/SzYUa1hq] cigarretes-sales
 
 
 ## SOS1920-27
