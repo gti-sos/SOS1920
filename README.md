@@ -262,14 +262,14 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-23.herokuapp.com/api/v1/offworks-stats](https://sos1920-23.herokuapp.com/api/v1/offworks-stats) (developed by [Alejandro Rodriguez Gomez](https://github.com/alegrandoi))
 
 -  **Postman Documentation**:
-	- API de Alejandro Rodríguez Gómez la colección desarrollada sobre el entorno de HEROKU 
-		[https://documenter.getpostman.com/view/10846961/SzYUY1CH] offworks-stats
+	- API de Alejandro Rodríguez Gómez la colección desarrollada sobre el entorno de HEROKU: 
+		[offworks-stats](https://documenter.getpostman.com/view/10846961/SzYUY1CH) 
 
 	- API DE Antonio Cabello Linares, colección desarrollada sobre entorno de HEROKU: 	
-		[https://documenter.getpostman.com/view/10637537/Szf3aVeY] fires-stats
+		[fires-stats](https://documenter.getpostman.com/view/10637537/Szf3aVeY)
 
 	- API DE José Ramón Pérez Trigos, colección desarrollada sobre entorno de Heroku y Goorm: 	
-		[https://documenter.getpostman.com/view/10860459/SzYUa1hq] cigarretes-sales
+		[cigarretes-sales](https://documenter.getpostman.com/view/10860459/SzYUa1hq)
 
 
 ## SOS1920-27
