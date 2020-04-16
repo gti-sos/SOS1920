@@ -137,7 +137,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
   - [Diego Ruiz Perez](https://github.com/dieruiper)
   - [Mario jimenez Santos](https://github.com/J5Mario)
   - [Mathias Abban Ehentam](https://github.com/Kingmathy)
-- **Project description**: Nuestras fuentes de información están orientadas a analizar las estadisticas sobre la exportación de libros, gasto publico en salud, y esperanza de vida en el ámbito europeo.
+- **Project description**: Our information sources are oriented to analyze statistics about books exports, public health spending and life expectancies in some countries.
 - **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
 - **URL**: [http://sos1920-05.herokuapp.com](http://sos1920-05.herokuapp.com)
 -  **APIs**:
