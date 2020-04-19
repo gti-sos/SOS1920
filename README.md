@@ -383,7 +383,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 -  **POSTMAN**:
     - [https://documenter.getpostman.com/view/10637473/Szf3bW1p](https://documenter.getpostman.com/view/10637473/Szf3bW1p?version=latest) (developed by [Rubén Navarro López](https://github.com/jolaru21))
     - [https://documenter.getpostman.com/view/10637421/Szf3bWAj](https://documenter.getpostman.com/view/10637421/Szf3bWAj?version=latest) (developed by [Fernando Campos Olías](https://github.com/Fercamoli))
-    - [https://documenter.getpostman.com/view/xxxxxxxx/yyyyyyyyy](https://documenter.getpostman.com/view/xxxxxxxx/yyyyyyyyyyyyyyyyyyyyyyy) (developed by [Alejandro Camacho Arias](https://github.com/sain120))
+    - [https://documenter.getpostman.com/view/10637488/Szf54Un3](https://documenter.getpostman.com/view/10637488/Szf54Un3?version=latest) (developed by [Alejandro Camacho Arias](https://github.com/sain120))
 
 ## SOS1920-30
 - **Team**
