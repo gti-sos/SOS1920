@@ -24,6 +24,21 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Student 2](https://github.com/404))
     - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Student 3](https://github.com/404))
 
+## SOS1920-02
+
+- **Team**
+  - [Ana Fraire Gonzalez](https://github.com/anafraire)
+  - [Jose Francisco Morales Ruiz](https://github.com/josmorrui2)
+  - [Marta Verdugo Martinez](https://github.com/martaverdugo6)
+- **Project description**: Repositorio grupo 02
+- **Repository**: [gti-sos/SOS1920-02](https://github.com/gti-sos/SOS1920-02)
+- **URL**: [http://sos1920-02.herokuapp.com](http://sos1920-02.herokuapp.com)
+-  **APIs**:
+    - [https://sos1920-02.herokuapp.com/api/v1/evolution-of-cycling-routes](https://documenter.getpostman.com/view/10637431/SzezcrsS) (developed by [Ana Fraire Gonzalez](https://github.com/anafraire))
+    - [https://sos1920-02.herokuapp.com/api/v1/traffic-accidents](https://documenter.getpostman.com/view/10653459/SzYT6hqm) (developed by [Jose Francisco Morales Ruiz](https://github.com/josmorrui2))
+    - [https://sos1920-02.herokuapp.com/api/v1/rural-tourism-stats](https://documenter.getpostman.com/view/6870023/SzYZ2KVA) (developed by [Marta Verdugo Martinez](https://github.com/martaverdugo6))
+
+
 ## SOS1920-04
 
 - **Team**
@@ -39,40 +54,20 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-04.herokuapp.com/api/v1/traffic_accidents/docs](https://documenter.getpostman.com/view/10653340/SzYUXzxx?version=latest) (developed by [Manuel Barrera Moya](https://github.com/manubarreram18))
 
 
-
-## SOS1920-02
-
-- **Team**
-  - [Ana Fraire Gonzalez](https://github.com/anafraire)
-  - [Jose Francisco Morales Ruiz](https://github.com/josmorrui2)
-  - [Marta Verdugo Martinez](https://github.com/martaverdugo6)
-- **Project description**: Repositorio grupo 02
-- **Repository**: [gti-sos/SOS1920-02](https://github.com/gti-sos/SOS1920-02)
-- **URL**: [http://sos1920-02.herokuapp.com](http://sos1920-02.herokuapp.com)
--  **APIs**:
-    - [https://sos1920-02.herokuapp.com/api/v1/evolution-of-cycling-routes](https://documenter.getpostman.com/view/10637431/SzezcrsS) (developed by [Ana Fraire Gonzalez](https://github.com/anafraire))
-    - [https://sos1920-02.herokuapp.com/api/v1/traffic-accidents](https://documenter.getpostman.com/view/10653459/SzYT6hqm) (developed by [Jose Francisco Morales Ruiz](https://github.com/josmorrui2))
-    - [https://sos1920-02.herokuapp.com/api/v1/rural-tourism-stats](https://documenter.getpostman.com/view/6870023/SzYZ2KVA) (developed by [Marta Verdugo Martinez](https://github.com/martaverdugo6))
-
-## SOS1920-24
+## SOS1920-05
 
 - **Team**
-  - [Miguel Ángel Toranzo García](https://github.com/Nerk1)
-  - [Alvaro Maya Cano](https://github.com/AlvaroMaya)
-  - [Victor Manuel Palos Torres](https://github.com/vicpaltor)
-- **Project description**: We will represent the correlation in Spain by autonomous community in 2018 between:
-	- Average Tuition Cost
-	- Number of University Tuition
-	- Public Waste on University
-	- Internship Contracts
-	
-- **Repository**: [gti-sos/SOS1920-24](https://github.com/gti-sos/SOS1920-00)
-- **URL**: [http://sos1920-24.herokuapp.com](http://sos1920-00.herokuapp.com)
+  - [Diego Ruiz Perez](https://github.com/dieruiper)
+  - [Mario jimenez Santos](https://github.com/J5Mario)
+  - [Mathias Abban Ehentam](https://github.com/Kingmathy)
+- **Project description**: Our information sources are oriented to analyze statistics about books exports, public health spending and life expectancies in some countries.
+- **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
+- **URL**: [http://sos1920-05.herokuapp.com](http://sos1920-05.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-24.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Miguel Ángel Toranzo García](https://github.com/Nerk1))
-    - [https://sos1920-24.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Alvaro Maya Cano](https://github.com/AlvaroMaya))
-    - [https://sos1920-24.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Victor Manuel Palos Torres](https://github.com/vicpaltor))
-	MODIFICADO 
+    - [https://sos1920-05.herokuapp.com/api/v1/books-exports](https://documenter.getpostman.com/view/6925017/SzYUZgDv) (developed by [Diego Ruiz Perez](https://github.com/dieruiper))
+    - [https://sos1920-05.herokuapp.com/api/v1/health_public](https://documenter.getpostman.com/view/10675350/SzYgRFDy) (developed by [Mario Jimenez Santos](https://github.com/J5Mario))
+    - [https://sos1920-05.herokuapp.com/api/v1/life_expectancies/docs](https://documenter.getpostman.com/view/10865992/SzYUaMiZ) (developed by [Mathias Abban Ehentam](https://github.com/Kingmathy))
+
 
 
 ## SOS1920-10
@@ -99,21 +94,28 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://documenter.getpostman.com/view/10651736/SzYUaMVS](https://documenter.getpostman.com/view/10651736/SzYUaMVS) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
     - [hhttps://documenter.getpostman.com/view/10695115/SzYUaMLT ](https://documenter.getpostman.com/view/10695115/SzYUaMLT  ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
     - [https://documenter.getpostman.com/view/10695121/SzYUaMR1](https://documenter.getpostman.com/view/10695121/SzYUaMR1) (developed by [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9))
-	
-## SOS1920-29
+
+
+## SOS1920-24
 
 - **Team**
-  - [Enrique Ramos Miró](https://github.com/enramir)
-  - [Jairo Fernández Carmona](https://github.com/jairo25fdez)
-  - [Lizeth Maribel Gutiérrez Mamani](https://github.com/lizethgutierrez)
-- **Project description**: Analysis of the relationship between education quality, employments and woman researchers in Europe.
-- **Repository**: [gti-sos/SOS1920-29](https://github.com/gti-sos/SOS1920-29)
-- **URL**: [https://sos1920-29.herokuapp.com](http://sos1920-29.herokuapp.com)
--  **APIs**:
-    - [https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Enrique Ramos Miró](https://github.com/enramir))
-    - [https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Jairo Fernández Carmona](https://github.com/jairo25fdez))
-    - [https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Lizeth Maribel Gutiérrez Mamani](https://github.com/lizethgutierrez))
+  - [Miguel Ángel Toranzo García](https://github.com/Nerk1)
+  - [Alvaro Maya Cano](https://github.com/AlvaroMaya)
+  - [Victor Manuel Palos Torres](https://github.com/vicpaltor)
+- **Project description**: We will represent the correlation in Spain by autonomous community in 2018 between:
+	- Average Tuition Cost
+	- Number of University Tuition
+	- Public Waste on University
+	- Internship Contracts
 	
+- **Repository**: [gti-sos/SOS1920-24](https://github.com/gti-sos/SOS1920-00)
+- **URL**: [http://sos1920-24.herokuapp.com](http://sos1920-00.herokuapp.com)
+-  **APIs**:
+    - [https://sos1920-24.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Miguel Ángel Toranzo García](https://github.com/Nerk1))
+    - [https://sos1920-24.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Alvaro Maya Cano](https://github.com/AlvaroMaya))
+    - [https://sos1920-24.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Victor Manuel Palos Torres](https://github.com/vicpaltor))
+	MODIFICADO 
+
 ## SOS1920-25
 
 - **Team**
@@ -131,20 +133,22 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
     - [https://sos1920-25.herokuapp.com/api/v1/global_competitiveness_index](https://sos1920-25.herokuapp.com/api/v1/global_competitiveness_index) (developed by [Adrián Escudero Barra](https://github.com/adriator77))
     - [https://sos1920-25.herokuapp.com/api/v1/countries_for_equality_stats](https://sos1920-25.herokuapp.com/api/v1/countries_for_equality_stats) (developed by [Alejandro Mena Claro](https://github.com/LagForever))
 
-## SOS1920-05
+
+	
+## SOS1920-29
 
 - **Team**
-  - [Diego Ruiz Perez](https://github.com/dieruiper)
-  - [Mario jimenez Santos](https://github.com/J5Mario)
-  - [Mathias Abban Ehentam](https://github.com/Kingmathy)
-- **Project description**: Our information sources are oriented to analyze statistics about books exports, public health spending and life expectancies in some countries.
-- **Repository**: [gti-sos/SOS1920-05](https://github.com/gti-sos/SOS1920-05)
-- **URL**: [http://sos1920-05.herokuapp.com](http://sos1920-05.herokuapp.com)
+  - [Enrique Ramos Miró](https://github.com/enramir)
+  - [Jairo Fernández Carmona](https://github.com/jairo25fdez)
+  - [Lizeth Maribel Gutiérrez Mamani](https://github.com/lizethgutierrez)
+- **Project description**: Analysis of the relationship between education quality, employments and woman researchers in Europe.
+- **Repository**: [gti-sos/SOS1920-29](https://github.com/gti-sos/SOS1920-29)
+- **URL**: [https://sos1920-29.herokuapp.com](http://sos1920-29.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-05.herokuapp.com/api/v1/books-exports](https://documenter.getpostman.com/view/6925017/SzYUZgDv) (developed by [Diego Ruiz Perez](https://github.com/dieruiper))
-    - [https://sos1920-05.herokuapp.com/api/v1/health_public](https://documenter.getpostman.com/view/10675350/SzYgRFDy) (developed by [Mario Jimenez Santos](https://github.com/J5Mario))
-    - [https://sos1920-05.herokuapp.com/api/v1/life_expectancies/docs](https://documenter.getpostman.com/view/10865992/SzYUaMiZ) (developed by [Mathias Abban Ehentam](https://github.com/Kingmathy))
-
+    - [https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Enrique Ramos Miró](https://github.com/enramir))
+    - [https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Jairo Fernández Carmona](https://github.com/jairo25fdez))
+    - [https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-29.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Lizeth Maribel Gutiérrez Mamani](https://github.com/lizethgutierrez))
+	
 	
 ## SOS1920-21
 - **Team**
