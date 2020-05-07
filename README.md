@@ -364,7 +364,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 -  **APIs**:
     - [https://sos1920-07.herokuapp.com/api/v1/my-awesome-resource-1/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-1/docs) (developed by [Jorge Vilchez Acosta](https://github.com/404))
     - [https://sos1920-07.herokuapp.com/api/v1/my-awesome-resource-2/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-2/docs) (developed by [Pablo Paz Rubio](https://github.com/404))
-    - [https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs](https://sos1920-00.herokuapp.com/api/v1/my-awesome-resource-3/docs) (developed by [Juan Antonio Moral Martínez](https://github.com/404))	
+    - [https://sos1920-07.herokuapp.com/#/foodsImports](https://sos1920-07.herokuapp.com/#/foodsImports) (developed by [Juan Antonio Moral Martínez](https://github.com/404))	
 >>>>>>> ce5569b1b11f9022d3fea674f60846a2f6e8cc52
 
 ## SOS1920-28
