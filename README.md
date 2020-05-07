@@ -86,9 +86,9 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
 
 - **URL**: [http://sos1920-10.herokuapp.com](http://sos1920-00.herokuapp.com)
 -  **APIs**:
-    - [https://sos1920-10.herokuapp.com/api/v1/global-suicides](https://sos1920-10.herokuapp.com/api/v1/global-suicides) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
-    - [https://sos1920-10.herokuapp.com/api/v1/global-marriages ](https://sos1920-10.herokuapp.com/api/v1/global-marriages ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
-    - [https://sos1920-10.herokuapp.com/api/v1/global-divorces](https://sos1920-10.herokuapp.com/api/v1/global-divorces) (developed by [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9))
+    - [https://sos1920-10.herokuapp.com/api/v2/global-suicides](https://sos1920-10.herokuapp.com/api/v2/global-suicides) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
+    - [https://sos1920-10.herokuapp.com/api/v2/global-marriages ](https://sos1920-10.herokuapp.com/api/v2/global-marriages ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
+    - [https://sos1920-10.herokuapp.com/api/v2/global-divorces](https://sos1920-10.herokuapp.com/api/v2/global-divorces) (developed by [Juan Manuel Cortés Alonso](https://github.com/juanmacortes9))
 	
 -  **POSTMAN**:
     - [https://documenter.getpostman.com/view/10651736/SzYUaMVS](https://documenter.getpostman.com/view/10651736/SzYUaMVS) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
