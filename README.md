@@ -84,7 +84,7 @@ List of projects registered in the course of **Service Oriented Systems** (2019/
  
 - **Repository**: [gti-sos/SOS1920-10](https://github.com/gti-sos/SOS1920-10)
 
-- **URL**: [http://sos1920-10.herokuapp.com](http://sos1920-00.herokuapp.com)
+- **URL**: [http://sos1920-10.herokuapp.com](http://sos1920-10.herokuapp.com)
 -  **APIs**:
     - [https://sos1920-10.herokuapp.com/api/v2/global-suicides](https://sos1920-10.herokuapp.com/api/v2/global-suicides) (developed by [Antonio Jose Jimenez Segovia](https://github.com/nonospe))
     - [https://sos1920-10.herokuapp.com/api/v2/global-marriages ](https://sos1920-10.herokuapp.com/api/v2/global-marriages ) (developed by [Jesús Vázquez Rivadeneyra](https://github.com/rivadeneyraj))
